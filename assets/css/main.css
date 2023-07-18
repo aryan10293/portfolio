@@ -79,8 +79,8 @@
 .card-button {
 	display: inline-block;
 	padding: 8px 16px;
-	background-color: #007bff;
-	color: #fff;
+	background-color: black;
+	color: white !important;
 	text-decoration: none;
 	border-radius: 4px;
 	transition: background-color 0.3s ease;
@@ -2018,7 +2018,7 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #3498db;
+		background-color: black;
 		color: #fff !important;
 	}
 
@@ -2994,7 +2994,7 @@
 			.wrapper.style1 input[type="button"],
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
-				background-color: #3498db;
+				background-color: black;
 				color: #fff !important;
 			}
 
@@ -3160,7 +3160,7 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #3498db;
+			background-color: grey;
 			color: #aed6f1;
 		}
 
