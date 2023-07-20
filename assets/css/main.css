@@ -4003,4 +4003,7 @@
 			.flex{
 				display:block;
 			}
+			.about{
+				margin-bottom: .5em;
+			}
 		}
