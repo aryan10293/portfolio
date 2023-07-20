@@ -3991,3 +3991,14 @@
 			}
 
 		}
+		@media screen and (min-width: 375px) and (max-width: 414px) {
+
+			/* Add your styles here */
+			/* For example: */
+			.card {
+				width: auto;
+			}
+			.flex{
+				display:block;
+			}
+		}
